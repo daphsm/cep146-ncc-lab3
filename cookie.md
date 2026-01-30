@@ -6,6 +6,9 @@
 - Flour
 - Salt
 - Chocolate Chips
+- Baking Soda
+- Vanilla Extract
+- Egg
 
 ## Step
 
